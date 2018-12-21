@@ -1,0 +1,1 @@
+./compute_flow --gpuID=0 --type=1 --vid_path=./video --out_path=./out --stride=1

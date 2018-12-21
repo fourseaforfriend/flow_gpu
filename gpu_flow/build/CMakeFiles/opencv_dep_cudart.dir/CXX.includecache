@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mi6/code/gpu_flow/an_empty_file.cpp
+
+/home/mi6/code/gpu_flow/build/opencv_dep_cudart_automoc.cpp
+

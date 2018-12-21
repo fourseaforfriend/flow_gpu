@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopencv_dep_cudart.a  CMakeFiles/opencv_dep_cudart.dir/an_empty_file.o CMakeFiles/opencv_dep_cudart.dir/opencv_dep_cudart_automoc.o
+/usr/bin/ranlib libopencv_dep_cudart.a
