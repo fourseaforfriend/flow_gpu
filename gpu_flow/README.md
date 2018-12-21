@@ -46,7 +46,7 @@ Additional features in `compute_flow.cpp`:
 ### Example:
 ```
 ./compute_flow --gpuID=0 --type=1 --vid_path=test --vid_path=test_out --stride=2
-./compute_flow --gpuID=0 --type=1 --vid_path=./video --out_path=./out --stride=1 #That's is my own commond, it would be better, I think.
+./compute_flow --gpuID=0 --type=1 --vid_path=./video --out_path=./out --stride=1 # That's is my own commond, it would be better, I think.
 ```
 
 
