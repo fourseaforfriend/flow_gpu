@@ -1,0 +1,2 @@
+http://www.peikeli.com/computer-vision/opencv-installation/
+wget https://github.com/opencv/opencv/archive/2.4.13.6.tar.gz

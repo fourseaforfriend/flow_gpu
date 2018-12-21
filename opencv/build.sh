@@ -1,0 +1,17 @@
+cmake \
+    -D CMAKE_BUILD_TYPE=RELEASE \
+    -D CMAKE_INSTALL_PREFIX=/home/mi6/software/opencv \
+    -D WITH_CUDA=ON \
+    -D WITH_CUBLAS=ON \
+    -D CUDA_FAST_MATH=ON \
+    -D WITH_CUFFT=ON \
+    -D WITH_QT=ON \
+    -D WITH_NVCUVID=ON \
+    -D WITH_V4L=ON \
+    -D WITH_LIBV4L=ON \
+    -D WITH_OPENGL=ON \
+    -D WITH_FFMPEG=ON \
+    -D INSTALL_C_EXAMPLES=ON \
+    -D BUILD_EXAMPLES=ON \
+    -D BUILD_TIFF=ON \
+    ..
